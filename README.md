@@ -1,4 +1,4 @@
-# Awesome Single Positive Multi Label Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Correr-Zhou/Awesome-Single-Positive-Multi-Label-Learning)
+# Awesome Single Positive Multi-Label Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Correr-Zhou/Awesome-Single-Positive-Multi-Label-Learning)
 
 This is a collecttion of papers and code for **single positive multi-label learning (SPML)**, an interesting and challenging variant of multi-label learning.
 Feel free to create pull requests (*e.g.*, add missing papers, correct errors) if there are anything that can make this community better!
