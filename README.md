@@ -67,17 +67,17 @@ Feel free to create pull requests (*e.g.*, add missing papers, correct errors) i
 > <br>
 > **NeurIPS 2022** | [[Paper]](https://openreview.net/pdf?id=o3HXEEBKnD)
 
+> [**Spatial Consistency Loss for Training Multi-Label Classifiers from Single-Label Annotations**](https://openaccess.thecvf.com/content/WACV2023/html/Verelst_Spatial_Consistency_Loss_for_Training_Multi-Label_Classifiers_From_Single-Label_Annotations_WACV_2023_paper.html)
+> <br>
+> Thomas Verelst, Paul K. Rubenstein, Marcin Eichner, Tinne Tuytelaars, Maxim Berman.
+> <br>
+> **WACV 2023** | [[Paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Verelst_Spatial_Consistency_Loss_for_Training_Multi-Label_Classifiers_From_Single-Label_Annotations_WACV_2023_paper.pdf)
+
 > [**Simple and Robust Loss Design for Multi-Label Learning with Missing Labels**](https://arxiv.org/abs/2112.07368)
 > <br>
 > Youcai Zhang, Yuhao Cheng, Xinyu Huang, Fei Wen, Rui Feng, Yaqian Li, Yandong Guo.
 > <br>
 > **ArXiv** | [[Paper]](https://arxiv.org/pdf/2112.07368) [[Code]](https://github.com/xinyu1205/robust-loss-mlml)
-
-> [**Spatial Consistency Loss for Training Multi-Label Classifiers from Single-Label Annotations**](https://arxiv.org/abs/2203.06127)
-> <br>
-> Thomas Verelst, Paul K. Rubenstein, Marcin Eichner, Tinne Tuytelaars, Maxim Berman.
-> <br>
-> **ArXiv** | [[Paper]](https://arxiv.org/pdf/2203.06127.pdf)
 
 > [**A Patch-Based Architecture for Multi-label Classification from Single Label Annotations**](https://arxiv.org/abs/2209.06530)
 > <br>
