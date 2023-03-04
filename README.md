@@ -77,26 +77,31 @@ Feel free to create pull requests (*e.g.*, add missing papers, correct errors) i
 > <br>
 > Youcai Zhang, Yuhao Cheng, Xinyu Huang, Fei Wen, Rui Feng, Yaqian Li, Yandong Guo.
 > <br>
-> **ArXiv** | [[Paper]](https://arxiv.org/pdf/2112.07368) [[Code]](https://github.com/xinyu1205/robust-loss-mlml)
+> **ArXiv 2022** | [[Paper]](https://arxiv.org/pdf/2112.07368) [[Code]](https://github.com/xinyu1205/robust-loss-mlml)
 
 > [**A Patch-Based Architecture for Multi-label Classification from Single Label Annotations**](https://arxiv.org/abs/2209.06530)
 > <br>
 > Warren Jouanneau, Aurélie Bugeau, Marc Palyart, Nicolas Papadakis, Laurent Vézard.
 > <br>
-> **ArXiv** | [[Paper]](https://arxiv.org/pdf/2209.06530.pdf)
+> **ArXiv 2022** | [[Paper]](https://arxiv.org/pdf/2209.06530.pdf)
 
 > [**An Effective Approach for Multi-label Classification with Missing Labels**](https://arxiv.org/abs/2210.13651)
 > <br>
 > Xin Zhang, Rabab Abdelfattah, Yuqi Song, Xiaofeng Wang.
 > <br>
-> **ArXiv** | [[Paper]](https://arxiv.org/pdf/2210.13651.pdf)
+> **ArXiv 2022** | [[Paper]](https://arxiv.org/pdf/2210.13651.pdf)
 
 > [**Leveraged Asymmetric Loss with Disambiguation for Multi-label Recognition with One-Positive Annotations**](https://openreview.net/forum?id=JFf-bPQu5RB)
 > <br>
-> Anonymous Authors.
+> Jingyi Cui, Tao Huang, Hanyuan Hang, Yisen Wang, James Kwok.
 > <br>
-> **OpenReview** | [[Paper]](https://openreview.net/pdf?id=JFf-bPQu5RB)
+> **OpenReview 2022** | [[Paper]](https://openreview.net/pdf?id=JFf-bPQu5RB)
 
+> [**Pushing One Pair of Labels Apart Each Time in Multi-Label Learning: From Single Positive to Full Labels**](https://arxiv.org/abs/2302.14695)
+> <br>
+> Xiang Li*, Xinrui Wang*, Songcan Chen.
+> <br>
+> **ArXiv 2023** | [[Paper]](https://arxiv.org/pdf/2302.14695.pdf)
 
 <a name="Acknowledgements"></a>
 ## Acknowledgements
