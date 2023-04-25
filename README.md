@@ -8,7 +8,7 @@ Feel free to create pull requests (*e.g.*, add missing papers, correct errors) i
 ## Table of Contents
 
 - [Published Papers](#Published_Papers) 
-- [Preprints](#Preprints) 
+- [Archives](#Archives) 
 - [Acknowledgements](#Acknowledgements)
 
 <a name="Published_Papers"></a>
@@ -86,26 +86,26 @@ Feel free to create pull requests (*e.g.*, add missing papers, correct errors) i
 > <br>
 > **CVPR 2023** | [[Paper]](https://arxiv.org/pdf/2303.13223.pdf) [[Code]](https://github.com/jameslahm/SCPNet)
 
-<a name="Preprints"></a>
-## Preprints
+<a name="Archives"></a>
+## Archives
 
 > [**Simple and Robust Loss Design for Multi-Label Learning with Missing Labels**](https://arxiv.org/abs/2112.07368)
 > <br>
 > Youcai Zhang, Yuhao Cheng, Xinyu Huang, Fei Wen, Rui Feng, Yaqian Li, Yandong Guo.
 > <br>
-> **ArXiv 2022** | [[Paper]](https://arxiv.org/pdf/2112.07368) [[Code]](https://github.com/xinyu1205/robust-loss-mlml)
+> **arXiv 2022** | [[Paper]](https://arxiv.org/pdf/2112.07368) [[Code]](https://github.com/xinyu1205/robust-loss-mlml)
 
 > [**A Patch-Based Architecture for Multi-label Classification from Single Label Annotations**](https://arxiv.org/abs/2209.06530)
 > <br>
 > Warren Jouanneau, Aurélie Bugeau, Marc Palyart, Nicolas Papadakis, Laurent Vézard.
 > <br>
-> **ArXiv 2022** | [[Paper]](https://arxiv.org/pdf/2209.06530.pdf)
+> **arXiv 2022** | [[Paper]](https://arxiv.org/pdf/2209.06530.pdf)
 
 > [**An Effective Approach for Multi-label Classification with Missing Labels**](https://arxiv.org/abs/2210.13651)
 > <br>
 > Xin Zhang, Rabab Abdelfattah, Yuqi Song, Xiaofeng Wang.
 > <br>
-> **ArXiv 2022** | [[Paper]](https://arxiv.org/pdf/2210.13651.pdf)
+> **arXiv 2022** | [[Paper]](https://arxiv.org/pdf/2210.13651.pdf)
 
 > [**Leveraged Asymmetric Loss with Disambiguation for Multi-label Recognition with One-Positive Annotations**](https://openreview.net/forum?id=JFf-bPQu5RB)
 > <br>
@@ -117,13 +117,25 @@ Feel free to create pull requests (*e.g.*, add missing papers, correct errors) i
 > <br>
 > Xiang Li*, Xinrui Wang*, Songcan Chen.
 > <br>
-> **ArXiv 2023** | [[Paper]](https://arxiv.org/pdf/2302.14695.pdf)
+> **arXiv 2023** | [[Paper]](https://arxiv.org/pdf/2302.14695.pdf)
 
 > [**Global-Scale Species Mapping From Crowdsourced Data**](https://openreview.net/forum?id=1mjOVFZ3C-)
 > <br>
 > Elijah Cole, Grant Van Horn, Alexander Shepard, Patrick Leary, Scott Loarie, Pietro Perona, Oisin Mac Aodha.
 > <br>
 > **OpenReview 2023** | [[Paper]](https://openreview.net/pdf?id=1mjOVFZ3C-)
+
+> [**Understanding Label Bias in Single Positive Multi-Label Learning**](https://openreview.net/forum?id=iWiwox99aJ)
+> <br>
+> Julio Arroyo, Pietro Perona, Elijah Cole.
+> <br>
+> **OpenReview 2023 (Tiny Papers @ ICLR 2023)** | [[Paper]](https://openreview.net/pdf?id=iWiwox99aJ)
+
+> [**Pseudo Labels for Single Positive Multi-Label Learning**](https://openreview.net/forum?id=-CH1C-aQ5pk)
+> <br>
+> Julio Arroyo.
+> <br>
+> **OpenReview 2023 (Tiny Papers @ ICLR 2023)** | [[Paper]](https://openreview.net/pdf?id=-CH1C-aQ5pk)
 
 
 <a name="Acknowledgements"></a>
