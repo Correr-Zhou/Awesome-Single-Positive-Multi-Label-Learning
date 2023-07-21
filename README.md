@@ -86,6 +86,18 @@ Feel free to create pull requests (*e.g.*, add missing papers, correct errors) i
 > <br>
 > **CVPR 2023** | [[Paper]](https://arxiv.org/pdf/2303.13223.pdf) [[Code]](https://github.com/jameslahm/SCPNet)
 
+> [**Understanding Label Bias in Single Positive Multi-Label Learning**](https://openreview.net/forum?id=iWiwox99aJ)
+> <br>
+> Julio Arroyo, Pietro Perona, Elijah Cole.
+> <br>
+> **Tiny Papers @ ICLR 2023** | [[Paper]](https://openreview.net/pdf?id=iWiwox99aJ)
+
+> [**Pseudo Labels for Single Positive Multi-Label Learning**](https://openreview.net/forum?id=-CH1C-aQ5pk)
+> <br>
+> Julio Arroyo.
+> <br>
+> **Tiny Papers @ ICLR 2023** | [[Paper]](https://openreview.net/pdf?id=-CH1C-aQ5pk)
+
 <a name="Archives"></a>
 ## Archives
 
@@ -125,18 +137,11 @@ Feel free to create pull requests (*e.g.*, add missing papers, correct errors) i
 > <br>
 > **OpenReview 2023** | [[Paper]](https://openreview.net/pdf?id=1mjOVFZ3C-)
 
-> [**Understanding Label Bias in Single Positive Multi-Label Learning**](https://openreview.net/forum?id=iWiwox99aJ)
+> [**Semantic Contrastive Bootstrapping for Single-positive Multi-label Recognition**](https://arxiv.org/abs/2307.07680)
 > <br>
-> Julio Arroyo, Pietro Perona, Elijah Cole.
+> Cheng Chen, Yifan Zhao, Jia Li.
 > <br>
-> **OpenReview 2023 (Tiny Papers @ ICLR 2023)** | [[Paper]](https://openreview.net/pdf?id=iWiwox99aJ)
-
-> [**Pseudo Labels for Single Positive Multi-Label Learning**](https://openreview.net/forum?id=-CH1C-aQ5pk)
-> <br>
-> Julio Arroyo.
-> <br>
-> **OpenReview 2023 (Tiny Papers @ ICLR 2023)** | [[Paper]](https://openreview.net/pdf?id=-CH1C-aQ5pk)
-
+> **arXiv 2023** | [[Paper]](https://arxiv.org/pdf/2307.07680.pdf) [[Code]](https://github.com/iCVTEAM/Scob)
 
 <a name="Acknowledgements"></a>
 ## Acknowledgements
