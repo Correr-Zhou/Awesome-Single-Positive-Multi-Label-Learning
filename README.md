@@ -30,7 +30,7 @@ Feel free to create pull requests (*e.g.*, add missing papers, correct errors) i
 > <br>
 > Donghao Zhou, Pengfei Chen, Qiong Wang, Guangyong Chen, Pheng-Ann Heng.
 > <br>
-> **ECCV 2022** | [[Paper]](https://arxiv.org/pdf/2203.16219.pdf) [[Code]](https://github.com/Correr-Zhou/SPML-AckTheUnknown)
+> **ECCV 2022** | [[Paper]](https://arxiv.org/pdf/2203.16219.pdf) [[Code]](https://github.com/Correr-Zhou/SPML-AckTheUnknown) ![](https://img.shields.io/badge/Ours!-dd0000)
 
 > [**Hyperspherical Learning in Multi-Label Classification**](https://link.springer.com/chapter/10.1007/978-3-031-19806-9_3)
 > <br>
