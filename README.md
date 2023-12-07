@@ -80,7 +80,7 @@ Feel free to create pull requests (*e.g.*, add missing papers, correct errors) i
 > <br>
 > **CVPR 2023** | [[Paper]](https://arxiv.org/pdf/2304.01804.pdf) [[Code]](https://github.com/youngwk/BridgeGapExplanationPAMC)
 
-> [**Exploring Structured Semantic Prior for Multi Label Recognition with Incomplete Labels**](https://arxiv.org/abs/2303.13223)
+> [**Exploring Structured Semantic Prior for Multi-Label Recognition with Incomplete Labels**](https://arxiv.org/abs/2303.13223)
 > <br>
 > Zixuan Ding, Ao Wang, Hui Chen, Qiang Zhang, Pengzhang Liu, Yongjun Bao, Weipeng Yan, Jungong Han.
 > <br>
@@ -97,6 +97,36 @@ Feel free to create pull requests (*e.g.*, add missing papers, correct errors) i
 > Julio Arroyo.
 > <br>
 > **Tiny Papers @ ICLR 2023** | [[Paper]](https://openreview.net/pdf?id=-CH1C-aQ5pk)
+
+> [**Revisiting Pseudo-Label for Single-Positive Multi-Label Learning**](https://proceedings.mlr.press/v202/liu23ar.html)
+> <br>
+> Biao Liu, Ning Xu, Jiaqi Lv, Xin Geng.
+> <br>
+> **ICML 2023** | [[Paper]](https://proceedings.mlr.press/v202/liu23ar/liu23ar.pdf)
+
+> [**Spatial Implicit Neural Representations for Global-Scale Species Mapping**](https://arxiv.org/abs/2306.02564)
+> <br>
+> Elijah Cole, Grant Van Horn, Christian Lange, Alexander Shepard, Patrick Leary, Pietro Perona, Scott Loarie, Oisin Mac Aodha.
+> <br>
+> **ICML 2023** | [[Paper]](https://arxiv.org/pdf/2306.02564.pdf)
+
+> [**Hierarchical Prompt Learning Using CLIP for Multi-label Classification with Single Positive Labels**](https://dl.acm.org/doi/abs/10.1145/3581783.3611988)
+> <br>
+> Ao Wang, Hui Chen, Zijia Lin, Zixuan Ding, Pengzhang Liu, Yongjun Bao, Weipeng Yan, Guiguang Ding.
+> <br>
+> **ACM MM 2023** | [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581783.3611988)
+
+> [**Semantic Contrastive Bootstrapping for Single-positive Multi-label Recognition**](https://link.springer.com/article/10.1007/s11263-023-01849-z)
+> <br>
+> Cheng Chen, Yifan Zhao, Jia Li.
+> <br>
+> **IJCV 2023** | [[Paper]](https://arxiv.org/pdf/2307.07680.pdf) [[Code]](https://github.com/iCVTEAM/Scob)
+
+> [**Multi-Label Classification with Single Positive Label for Remote Sensing Image**](https://ieeexplore.ieee.org/abstract/document/10282373)
+> <br>
+> Keigo Fujii; Akira Iwasaki.
+> <br>
+> **IGARSS 2023** | [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10282373&tag=1)
 
 <a name="Archives"></a>
 ## Archives
@@ -142,6 +172,18 @@ Feel free to create pull requests (*e.g.*, add missing papers, correct errors) i
 > Cheng Chen, Yifan Zhao, Jia Li.
 > <br>
 > **arXiv 2023** | [[Paper]](https://arxiv.org/pdf/2307.07680.pdf) [[Code]](https://github.com/iCVTEAM/Scob)
+
+> [**Can Class-Priors Help Single-Positive Multi-Label Learning?**](https://arxiv.org/abs/2309.13886)
+> <br>
+> Biao Liu, Jie Wang, Ning Xu, Xin Geng.
+> <br>
+> **arXiv 2023** | [[Paper]](https://arxiv.org/pdf/2309.13886.pdf)
+
+> [**Vision-Language Pseudo-Labels for Single-Positive Multi-Label Learning**](https://arxiv.org/abs/2310.15985)
+> <br>
+> Xin Xing, Zhexiao Xiong, Abby Stylianou, Srikumar Sastry, Liyu Gong, Nathan Jacobs.
+> <br>
+> **arXiv 2023** | [[Paper]](https://arxiv.org/pdf/2310.15985.pdf)
 
 <a name="Acknowledgements"></a>
 ## Acknowledgements
