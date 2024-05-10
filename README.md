@@ -128,6 +128,12 @@ Feel free to create pull requests (*e.g.*, add missing papers, correct errors) i
 > <br>
 > **IGARSS 2023** | [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10282373&tag=1)
 
+> [**Is one label all you need? Single positive multi-label training in medical image analysis**](https://ieeexplore.ieee.org/abstract/document/10386758)
+> <br>
+> Helen Schneider, Priya Priya, David Biesner, Rebecca Kador, Yannik C. Layer; Maike Theis, Sebastian Nowak, Alois M. Sprinkart, Ulrike I. Attenberger, Rafet Sifa.
+> <br>
+> **BigData 2024** | [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10386758)
+> 
 <a name="Archives"></a>
 ## Archives
 
@@ -184,6 +190,12 @@ Feel free to create pull requests (*e.g.*, add missing papers, correct errors) i
 > Xin Xing, Zhexiao Xiong, Abby Stylianou, Srikumar Sastry, Liyu Gong, Nathan Jacobs.
 > <br>
 > **arXiv 2023** | [[Paper]](https://arxiv.org/pdf/2310.15985.pdf)
+
+> [**Boosting Single Positive Multi-label Classification with Generalized Robust Loss**](https://arxiv.org/abs/2405.03501)
+> <br>
+> Yanxi Chen, Chunxiao Li, Xinyang Dai, Jinhuan Li, Weiyu Sun, Yiming Wang, Renyuan Zhang, Tinghe Zhang, Bo Wang.
+> <br>
+> **arXiv 2024** | [[Paper]](https://arxiv.org/pdf/2405.03501)
 
 <a name="Acknowledgements"></a>
 ## Acknowledgements
