@@ -130,10 +130,22 @@ Feel free to create pull requests (*e.g.*, add missing papers, correct errors) i
 
 > [**Is one label all you need? Single positive multi-label training in medical image analysis**](https://ieeexplore.ieee.org/abstract/document/10386758)
 > <br>
-> Helen Schneider, Priya Priya, David Biesner, Rebecca Kador, Yannik C. Layer; Maike Theis, Sebastian Nowak, Alois M. Sprinkart, Ulrike I. Attenberger, Rafet Sifa.
+> Helen Schneider, Priya Priya, David Biesner, Rebecca Kador, Yannik C. Layer, Maike Theis, Sebastian Nowak, Alois M. Sprinkart, Ulrike I. Attenberger, Rafet Sifa.
 > <br>
 > **BigData 2024** | [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10386758)
-> 
+
+> [**Vision-Language Pseudo-Labels for Single-Positive Multi-Label Learning**](https://arxiv.org/abs/2310.15985)
+> <br>
+> Xin Xing, Zhexiao Xiong, Abby Stylianou, Srikumar Sastry, Liyu Gong, Nathan Jacobs.
+> <br>
+> **CVPRW 2024** | [[Paper]](https://openaccess.thecvf.com/content/CVPR2024W/LIMIT/papers/Xing_Vision-Language_Pseudo-Labels_for_Single-Positive_Multi-Label_Learning_CVPRW_2024_paper.pdf) [[Code]](https://github.com/mvrl/VLPL)
+
+> [**Prompt Expending for Single Positive Multi-Label Learning with Global Unannotated Categories**](https://dl.acm.org/doi/abs/10.1145/3652583.3658107)
+> <br>
+> Zhongnian Li, Peng Ying, Meng Wei, Tongfeng Sun, Xinzheng Xu.
+> <br>
+> **ICMR 2024** | [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3652583.3658107) [[Code]](https://github.com/yingpenga/VLSPE)
+
 <a name="Archives"></a>
 ## Archives
 
@@ -184,12 +196,6 @@ Feel free to create pull requests (*e.g.*, add missing papers, correct errors) i
 > Biao Liu, Jie Wang, Ning Xu, Xin Geng.
 > <br>
 > **arXiv 2023** | [[Paper]](https://arxiv.org/pdf/2309.13886.pdf)
-
-> [**Vision-Language Pseudo-Labels for Single-Positive Multi-Label Learning**](https://arxiv.org/abs/2310.15985)
-> <br>
-> Xin Xing, Zhexiao Xiong, Abby Stylianou, Srikumar Sastry, Liyu Gong, Nathan Jacobs.
-> <br>
-> **arXiv 2023** | [[Paper]](https://arxiv.org/pdf/2310.15985.pdf)
 
 > [**Boosting Single Positive Multi-label Classification with Generalized Robust Loss**](https://arxiv.org/abs/2405.03501)
 > <br>
