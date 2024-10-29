@@ -151,7 +151,13 @@ Feel free to create pull requests (*e.g.*, add missing papers, correct errors) i
 > Jiayin Xiao, Si Li, Tongxu Lin, Jian Zhu, Xiaochen Yuan, David Dagan Feng, Bin Sheng.
 > <br>
 > **IEEE TMI 2024** | [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10579876)
-> 
+
+> [**IGNORE: Information Gap-based False Negative Loss Rejection for Single Positive Multi-Label Learning**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05081.pdf)
+> <br>
+> GyeongRyeol Song, Noo-ri Kim, Jin-Seop Lee, Jee-Hyong Lee.
+> <br>
+> **ECCV 2024** | [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05081.pdf)
+
 <a name="Archives"></a>
 ## Archives
 
