@@ -162,13 +162,13 @@ Feel free to create pull requests (*e.g.*, add missing papers, correct errors) i
 > <br>
 > Xiang Li, Xinrui Wang, Songcan Chen.
 > <br>
-> **Science China Information Sciences** | [[Paper]](https://link.springer.com/content/pdf/10.1007/s11432-023-3979-9.pdf)
+> **Science China Information Sciences 2025** | [[Paper]](https://link.springer.com/content/pdf/10.1007/s11432-023-3979-9.pdf)
 
 > [**SpliceMix: A Cross-scale and Semantic Blending Augmentation Strategy for Multi-label Image Classification**](https://ieeexplore.ieee.org/abstract/document/10856374?casa_token=abj1lhsF6jQAAAAA:3b4HMWZ7fMjTkj8VCleB-Li-njRZZshTNI0wgSCFvC3-9AVMLy8UIPjwqLRdE2eTqJDkSut4f5A)
 > <br>
 > Lei Wang, Yibing Zhan, Leilei Ma, Dapeng Tao, Liang Ding, Chen Gong.
 > <br>
-> **IEEE Transactions on Multimedia** | [[Paper]](https://ieeexplore.ieee.org/abstract/document/10856374?casa_token=abj1lhsF6jQAAAAA:3b4HMWZ7fMjTkj8VCleB-Li-njRZZshTNI0wgSCFvC3-9AVMLy8UIPjwqLRdE2eTqJDkSut4f5A) [[Code]](https://github.com/zuiran/SpliceMix)
+> **IEEE TMM 2025** | [[Paper]](https://ieeexplore.ieee.org/abstract/document/10856374?casa_token=abj1lhsF6jQAAAAA:3b4HMWZ7fMjTkj8VCleB-Li-njRZZshTNI0wgSCFvC3-9AVMLy8UIPjwqLRdE2eTqJDkSut4f5A) [[Code]](https://github.com/zuiran/SpliceMix)
 
 
 <a name="Archives"></a>
