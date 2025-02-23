@@ -158,6 +158,19 @@ Feel free to create pull requests (*e.g.*, add missing papers, correct errors) i
 > <br>
 > **ECCV 2024** | [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05081.pdf) [[Code]](https://github.com/gyeong-ryeol-song/SPML-IGNORE)
 
+> [**Pushing One Pair of Labels Apart Each Time in Multi-Label Learning: From Single Positive to Full Labels**](https://link.springer.com/content/pdf/10.1007/s11432-023-3979-9.pdf)
+> <br>
+> Xiang Li, Xinrui Wang, Songcan Chen.
+> <br>
+> **Science China Information Sciences** | [[Paper]](https://link.springer.com/content/pdf/10.1007/s11432-023-3979-9.pdf)
+
+> [**SpliceMix: A Cross-scale and Semantic Blending Augmentation Strategy for Multi-label Image Classification**](https://ieeexplore.ieee.org/abstract/document/10856374?casa_token=abj1lhsF6jQAAAAA:3b4HMWZ7fMjTkj8VCleB-Li-njRZZshTNI0wgSCFvC3-9AVMLy8UIPjwqLRdE2eTqJDkSut4f5A)
+> <br>
+> Lei Wang, Yibing Zhan, Leilei Ma, Dapeng Tao, Liang Ding, Chen Gong.
+> <br>
+> **IEEE Transactions on Multimedia** | [[Paper]](https://ieeexplore.ieee.org/abstract/document/10856374?casa_token=abj1lhsF6jQAAAAA:3b4HMWZ7fMjTkj8VCleB-Li-njRZZshTNI0wgSCFvC3-9AVMLy8UIPjwqLRdE2eTqJDkSut4f5A) [[Code]](https://github.com/zuiran/SpliceMix)
+
+
 <a name="Archives"></a>
 ## Archives
 
@@ -184,12 +197,6 @@ Feel free to create pull requests (*e.g.*, add missing papers, correct errors) i
 > Jingyi Cui, Tao Huang, Hanyuan Hang, Yisen Wang, James Kwok.
 > <br>
 > **OpenReview 2022** | [[Paper]](https://openreview.net/pdf?id=JFf-bPQu5RB)
-
-> [**Pushing One Pair of Labels Apart Each Time in Multi-Label Learning: From Single Positive to Full Labels**](https://arxiv.org/abs/2302.14695)
-> <br>
-> Xiang Li*, Xinrui Wang*, Songcan Chen.
-> <br>
-> **arXiv 2023** | [[Paper]](https://arxiv.org/pdf/2302.14695.pdf)
 
 > [**Global-Scale Species Mapping From Crowdsourced Data**](https://openreview.net/forum?id=1mjOVFZ3C-)
 > <br>
