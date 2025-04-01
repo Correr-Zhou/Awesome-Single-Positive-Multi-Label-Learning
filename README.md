@@ -170,6 +170,12 @@ Feel free to create pull requests (*e.g.*, add missing papers, correct errors) i
 > <br>
 > **IEEE TMM 2025** | [[Paper]](https://ieeexplore.ieee.org/abstract/document/10856374?casa_token=abj1lhsF6jQAAAAA:3b4HMWZ7fMjTkj8VCleB-Li-njRZZshTNI0wgSCFvC3-9AVMLy8UIPjwqLRdE2eTqJDkSut4f5A) [[Code]](https://github.com/zuiran/SpliceMix)
 
+> [**Pushing One Pair of Labels Apart Each Time in Multi-Label Learning: From Single Positive to Full Labels**](https://gengyulyu.github.io/homepage/assets/pdf/CLS.pdf)
+> <br>
+> Gengyu Lyu, Bohang Sun, Xiang Deng, Songhe Feng.
+> <br>
+> **AAAI 2025** | [[Paper]](https://gengyulyu.github.io/homepage/assets/pdf/CLS.pdf)
+> 
 
 <a name="Archives"></a>
 ## Archives
