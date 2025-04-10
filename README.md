@@ -175,7 +175,12 @@ Feel free to create pull requests (*e.g.*, add missing papers, correct errors) i
 > Gengyu Lyu, Bohang Sun, Xiang Deng, Songhe Feng.
 > <br>
 > **AAAI 2025** | [[Paper]](https://gengyulyu.github.io/homepage/assets/pdf/CLS.pdf)
-> 
+
+> [**Semantic-guided Representation Learning for Multi-Label Recognition**](https://arxiv.org/abs/2504.03801)
+> <br>
+> Ruhui Zhang, Hezhe Qiao, Pengcheng Xu, Mingsheng Shang, Lin Chen.
+> <br>
+> **ICME 2025** | [[Paper]](https://arxiv.org/pdf/2504.03801) [[Code]](https://github.com/MVL-Lab/SigRL)
 
 <a name="Archives"></a>
 ## Archives
@@ -228,6 +233,7 @@ Feel free to create pull requests (*e.g.*, add missing papers, correct errors) i
 > <br>
 > **arXiv 2024** | [[Paper]](https://arxiv.org/pdf/2405.03501)
 
+ 
 <a name="Acknowledgements"></a>
 ## Acknowledgements
 
