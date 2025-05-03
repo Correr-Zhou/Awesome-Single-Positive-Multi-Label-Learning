@@ -182,7 +182,15 @@ Feel free to create pull requests (*e.g.*, add missing papers, correct errors) i
 > <br>
 > **ICME 2025** | [[Paper]](https://arxiv.org/pdf/2504.03801) [[Code]](https://github.com/MVL-Lab/SigRL)
 
+> [**Co-Pseudo Labeling and Active Selection for Fundus Single-Positive Multi-Label Learning**](https://ieeexplore.ieee.org/document/10979454)
+> <br>
+> Tingxin Hu, Weihang Zhang, Jia Guo, Huiqi Li.
+> <br>
+> **IEEE TMI 2025** | [[Paper]](https://ieeexplore.ieee.org/document/10979454)
+> 
 <a name="Archives"></a>
+
+
 ## Archives
 
 > [**Simple and Robust Loss Design for Multi-Label Learning with Missing Labels**](https://arxiv.org/abs/2112.07368)
