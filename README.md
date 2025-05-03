@@ -146,7 +146,7 @@ Feel free to create pull requests (*e.g.*, add missing papers, correct errors) i
 > <br>
 > **ICMR 2024** | [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3652583.3658107) [[Code]](https://github.com/yingpenga/VLSPE)
 
-> [**Multi-Label Chest X-Ray Image Classification with Single Positive Labels**](https://ieeexplore.ieee.org/abstract/document/10579876/authors#authors)
+> [**Multi-Label Chest X-Ray Image Classification with Single Positive Labels**](https://ieeexplore.ieee.org/abstract/document/10579876/)
 > <br>
 > Jiayin Xiao, Si Li, Tongxu Lin, Jian Zhu, Xiaochen Yuan, David Dagan Feng, Bin Sheng.
 > <br>
