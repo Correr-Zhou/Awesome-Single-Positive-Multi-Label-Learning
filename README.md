@@ -5,7 +5,7 @@ Feel free to create pull requests (*e.g.*, add missing papers, correct errors) i
 <br>
 <br>
 
-> *Last Update: 2025-6-29*
+> *Last Update: 2025-08-24*
 
 ## Table of Contents
 
@@ -189,26 +189,33 @@ Feel free to create pull requests (*e.g.*, add missing papers, correct errors) i
 > Tingxin Hu, Weihang Zhang, Jia Guo, Huiqi Li.
 > <br>
 > **IEEE TMI 2025** | [[Paper]](https://ieeexplore.ieee.org/document/10979454)
-> 
-<a name="Archives"></a>
 
 > [**PositiveCoOp: Rethinking Prompting Strategies for Multi-Label Recognition with Partial Annotations**](https://ieeexplore.ieee.org/document/10943423)
 > <br>
 > Samyak Rawlekar, Shubhang Bhatnagar, Narendra Ahuja.
 > <br>
 > **WACV 2025** | [[Paper]](https://ieeexplore.ieee.org/document/10943423)
-> 
-<a name="Archives"></a>
 
 > [**Classifier-guided CLIP Distillation for Unsupervised Multi-label Classification**](https://openaccess.thecvf.com/content/CVPR2025/papers/Kim_Classifier-guided_CLIP_Distillation_for_Unsupervised_Multi-label_Classification_CVPR_2025_paper.pdf)
 > <br>
 > Dongseob Kim, Hyunjung Shim.
 > <br>
 > **CVPR 2025** | [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Kim_Classifier-guided_CLIP_Distillation_for_Unsupervised_Multi-label_Classification_CVPR_2025_paper.pdf) [[Code]](https://github.com/k0u-id/CCD)
-> 
+
+> [**Addressing Multi-Label Learning with Partial Labels: From Sample Selection to Label Selection**](https://ojs.aaai.org/index.php/AAAI/article/view/34119/36274)
+> <br>
+> Gengyu Lyu, Bohang Sun, Xiang Deng, Songhe Feng.
+> <br>
+> **AAAI 2025** | [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/34119/36274)
+
+> [**Semantic Hierarchy-Aware Hyperbolic Representations for Multi-Label Classification With Single Positive Labels**](https://ieeexplore.ieee.org/abstract/document/11115030?casa_token=qBxR_IjwSEYAAAAA:TavYQ2rZooy555j_sOJcII07-qGM0EPO81kEQXypucncJ9sKR2GNkCdZXYDGAcJCF0Js2xLFrg)
+> <br>
+> Tongtong Liu, Guoqiang Chen, Ying Wang, Wenhui Li.
+> <br>
+> **IEEE SPL** | [[Paper]](https://ieeexplore.ieee.org/abstract/document/11115030?casa_token=qBxR_IjwSEYAAAAA:TavYQ2rZooy555j_sOJcII07-qGM0EPO81kEQXypucncJ9sKR2GNkCdZXYDGAcJCF0Js2xLFrg)
+
+
 <a name="Archives"></a>
-
-
 ## Archives
 
 > [**Simple and Robust Loss Design for Multi-Label Learning with Missing Labels**](https://arxiv.org/abs/2112.07368)
