@@ -5,7 +5,7 @@ Feel free to create pull requests (*e.g.*, add missing papers, correct errors) i
 <br>
 <br>
 
-> *Last Update: 2025-08-24*
+> *Last Update: 2025-09-02*
 
 ## Table of Contents
 
@@ -202,6 +202,12 @@ Feel free to create pull requests (*e.g.*, add missing papers, correct errors) i
 > <br>
 > **CVPR 2025** | [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Kim_Classifier-guided_CLIP_Distillation_for_Unsupervised_Multi-label_Classification_CVPR_2025_paper.pdf) [[Code]](https://github.com/k0u-id/CCD)
 
+> [**More Reliable Pseudo-labels, Better Performance: A Generalized Approach to Single Positive Multi-label Learning**](https://arxiv.org/pdf/2508.20381)
+> <br>
+> uong Tran, Thieu Vo, Anh Nguyen, Sang Dinh, Van Nguyen.
+> <br>
+> **ICCV 2025** | [[Paper]](https://arxiv.org/pdf/2508.20381)
+> 
 > [**Addressing Multi-Label Learning with Partial Labels: From Sample Selection to Label Selection**](https://ojs.aaai.org/index.php/AAAI/article/view/34119/36274)
 > <br>
 > Gengyu Lyu, Bohang Sun, Xiang Deng, Songhe Feng.
