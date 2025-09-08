@@ -220,6 +220,12 @@ Feel free to create pull requests (*e.g.*, add missing papers, correct errors) i
 > <br>
 > **IEEE SPL** | [[Paper]](https://ieeexplore.ieee.org/abstract/document/11115030?casa_token=qBxR_IjwSEYAAAAA:TavYQ2rZooy555j_sOJcII07-qGM0EPO81kEQXypucncJ9sKR2GNkCdZXYDGAcJCF0Js2xLFrg)
 
+> [**Single-positive Multi-label Learning with Label Cardinality**](https://openreview.net/forum?id=XEPPXH2nKu)
+> <br>
+> Shayan Gharib, Pierre-Alexandre Murena, Arto Klami.
+> <br>
+> **TMLR 2025** | [[Paper]](https://openreview.net/pdf?id=XEPPXH2nKu) [[Code]](https://github.com/shayangharib/SPMLL_with_Label_Cardinality)
+
 
 <a name="Archives"></a>
 ## Archives
