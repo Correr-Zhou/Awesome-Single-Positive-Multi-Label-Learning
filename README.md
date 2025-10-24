@@ -226,8 +226,15 @@ Feel free to create pull requests (*e.g.*, add missing papers, correct errors) i
 > <br>
 > **TMLR 2025** | [[Paper]](https://openreview.net/pdf?id=XEPPXH2nKu) [[Code]](https://github.com/shayangharib/SPMLL_with_Label_Cardinality)
 
-
+> [**Hyperbolic Structured Classification for Robust Single Positive Multi-label Learning**](https://arxiv.org/abs/2510.15296)
+> <br>
+> Yiming Lin, Shang Wang, Junkai Zhou, Qiufeng Wang, Xiao-Bo Jin, Kaizhu Huang.
+> <br>
+> **ICDMW 2025** | [[Paper]](https://arxiv.org/pdf/2510.15296)
+> 
 <a name="Archives"></a>
+
+
 ## Archives
 
 > [**Simple and Robust Loss Design for Multi-Label Learning with Missing Labels**](https://arxiv.org/abs/2112.07368)
