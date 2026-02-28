@@ -5,7 +5,7 @@ Feel free to create pull requests (*e.g.*, add missing papers, correct errors) i
 <br>
 <br>
 
-> *Last Update: 2025-10-24*
+> *Last Update: 2026-2-28*
 
 ## Table of Contents
 
@@ -231,7 +231,14 @@ Feel free to create pull requests (*e.g.*, add missing papers, correct errors) i
 > Yiming Lin, Shang Wang, Junkai Zhou, Qiufeng Wang, Xiao-Bo Jin, Kaizhu Huang.
 > <br>
 > **ICDMW 2025** | [[Paper]](https://arxiv.org/pdf/2510.15296)
+
+> [**Adaptive Gradient Calibration for Single-Positive Multi-Label Learning in Remote Sensing Image Scene Classification**](https://ieeexplore.ieee.org/abstract/document/11371377)
+> <br>
+> Chenying Liu, Gianmarco Perantoni, Lorenzo Bruzzone, Xiao Xiang Zhu
+> <br>
+> **IEEE TGRS 2026** | [[Paper]](https://ieeexplore.ieee.org/abstract/document/11371377)  [[Code]](https://github.com/rslab-unitrento/AdaGC)
 > 
+
 <a name="Archives"></a>
 
 
